@@ -6,7 +6,9 @@
   "author": "Matheus Mondenez <matheus.mondenez@superlogica.com>",
   "license": "MPL-2.0",
   "dependencies": {
+    "@sentry/node": "^4.4.0",
     "bcryptjs": "^2.4.3",
+    "dotenv": "^6.1.0",
     "express": "^4.16.4",
     "express-async-handler": "^1.1.4",
     "express-handlebars": "^3.0.0",
